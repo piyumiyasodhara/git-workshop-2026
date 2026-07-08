@@ -1,0 +1,15 @@
+{
+  "name": "git-workshop-2026",
+  "version": "1.0.0",
+  "description": "Sample Node.js project for the Git workshop tech session",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "node --test tests/**/*.test.js"
+  },
+  "keywords": ["git", "workshop", "demo"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
