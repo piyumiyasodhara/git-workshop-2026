@@ -2,7 +2,7 @@
  * Application entry point.
  *
  * Run with: npm start
- * This script wires together auth and utility modules for the workshop demo.ahfhdf
+ * This script wires together auth and utility modules for the workshop demo.ahfhd
  */
 
 const { register, login } = require("./auth");
